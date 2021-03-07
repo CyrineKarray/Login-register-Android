@@ -1,2 +1,2 @@
 # Login-register-Android
- In this repository I've made a responsive Registration and Login Activity (Interface) using constraint Layout in android Studio
+ In this repository I've made a responsive Registration and Login Activity (interfaces) using constraint Layout in android Studio
